@@ -37,4 +37,4 @@
 
 * Repository contains quality README file with description, screenshot, and link to deployed application.
 
-![Website Preview](https://d92mrp7hetgfk.cloudfront.net/images/sites/misc/denver-switchup-thumbnail-a/original.png?1560210160)
+![Website Preview](https://github.com/djirving84/refactorHomework/blob/main/assets/images/Horiseon.png)
